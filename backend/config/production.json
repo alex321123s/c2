@@ -1,0 +1,22 @@
+{
+    "app": {
+      "port": 3000,
+      "name": "C2 Platform"
+    },
+    "database": {
+      "host": "prod-db-host",
+      "port": 27017,
+      "name": "c2_db_prod",
+      "username": "prod_db_user",
+      "password": "prod_db_password"
+    },
+    "jwt": {
+      "secret": "your_production_jwt_secret_key",
+      "expiresIn": "1h"
+    },
+    "logging": {
+      "level": "info",
+      "file": "logs/app_prod.log"
+    }
+  }
+  
