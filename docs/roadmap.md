@@ -110,7 +110,7 @@ To create a global ecosystem where ideas thrive by empowering individuals and co
 ---
 
 ## Feedback and Updates
-This roadmap is a living document and will be updated regularly based on progress, feedback, and emerging needs. If you have suggestions or would like to contribute to shaping the future of C2, please reach out via [support@c2platform.com](mailto:support@c2platform.com) or join our discussions on [GitHub Discussions](#).
+This roadmap is a living document and will be updated regularly based on progress, feedback, and emerging needs. If you have suggestions or would like to contribute to shaping the future of C2, please reach out via [contact@c2-innovation.de](mailto:contact@c2-innovation.de) or join our discussions on [GitHub Discussions](#).
 
 ---
 

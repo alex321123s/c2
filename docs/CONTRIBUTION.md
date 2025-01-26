@@ -109,7 +109,7 @@ All contributors must adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ens
 
 ## Contact
 
-If you have any questions or need assistance, reach out to us at [support@c2platform.com](mailto:support@c2platform.com).
+If you have any questions or need assistance, reach out to us at [contact@c2-innovation.de](mailto:contact@c2-innovation.de).
 
 Thank you for contributing to Communities Squared!
 

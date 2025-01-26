@@ -124,5 +124,5 @@ This document describes the technical approach and conceptual structure for Comm
 ---
 
 ## Conclusion
-This architecture document defines a scalable and modular microservices framework for C2, ensuring flexibility and adaptability as the platform evolves. Each service is designed to function independently while contributing to the broader goals of collaboration and innovation. The addition of local hosting ensures that the platform is accessible to developers and contributors for testing and development. For further details or contributions, contact us at [support@c2platform.com](mailto:support@c2platform.com).
+This architecture document defines a scalable and modular microservices framework for C2, ensuring flexibility and adaptability as the platform evolves. Each service is designed to function independently while contributing to the broader goals of collaboration and innovation. The addition of local hosting ensures that the platform is accessible to developers and contributors for testing and development. For further details or contributions, contact us at [contact@c2-innovation.de](mailto:contact@c2-innovation.de).
 

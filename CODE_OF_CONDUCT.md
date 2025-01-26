@@ -39,7 +39,7 @@ The following behaviors are considered unacceptable and will not be tolerated in
 
 ## Enforcement
 
-Instances of unacceptable behavior may be reported to the C2 team at [support@c2platform.com](mailto:support@c2platform.com). All reports will be reviewed and investigated promptly and fairly. Actions may include:
+Instances of unacceptable behavior may be reported to the C2 team at [contact@c2-innovation.de](mailto:contact@c2-innovation.de). All reports will be reviewed and investigated promptly and fairly. Actions may include:
 
 - A verbal or written warning.
 - Temporary or permanent suspension from community spaces.

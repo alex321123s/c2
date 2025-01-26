@@ -85,7 +85,7 @@ Take the following actionable steps to contribute to C2 today:
 ## Questions or Feedback?
 If you have any questions or need help, feel free to:
 - Join our community discussions on [GitHub Discussions](#).
-- Contact us at [support@c2platform.com](mailto:support@c2platform.com).
+- Contact us at [contact@c2-innovation.de](mailto:contact@c2-innovation.de).
 
 We look forward to your contributions! Take the first step today, and let’s transform how innovation happens.
 
